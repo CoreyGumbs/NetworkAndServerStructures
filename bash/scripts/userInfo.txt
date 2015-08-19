@@ -1,0 +1,7 @@
+User Name:	[34mcoreygumbs(B[m
+Current Date:	[32m08-19-2015(B[m
+Current Time:	[33m15-04-11(B[m
+Directory:	[31m/Users/coreygumbs/Documents/bash/scripts(B[m
+Computer Info:	[36mx86_64-apple-darwin14.4.0(B[m
+Bash Version:	[35m4.3.39(1)-release(B[m
+
