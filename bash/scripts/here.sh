@@ -7,7 +7,7 @@ cat <<- EndOfText
 				text string
 EndOfText
 
-
+#using here it ftp and get files
 ftp -n <<- DoneWithTheUpdate
 				open mirrors.xmission.com 
 				user anonymous nothinghere
